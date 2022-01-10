@@ -14,6 +14,4 @@ function App() {
   );
 }
 
-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
-
 export default App;
